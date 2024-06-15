@@ -69,7 +69,7 @@ export const {
 // 	}
 // }
 
-// const selectedServiceName = env.PUBLIC_SELECTED_SERVICE || 'LITEKART'
+// const selectedServiceName = env.PUBLIC_SELECTED_SERVICE || 'WOOCOMERCE'
 
 // const selectedService = getSelectedService(selectedServiceName)
 
